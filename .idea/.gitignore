@@ -8,3 +8,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Local-only files
+esp32_s3_led_tft/secrets.h
+led_state.txt
+.idea/
+build/
